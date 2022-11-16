@@ -3,7 +3,7 @@
 ## Contexto e objetivos
 Este projeto inclui a modelagem, análise exploratória e apresentação dos dados da olist, uma plataforma de e-commerce brasileira. 
 Os dados de mais de 90.000 pedidos foram disponibilizados pela empresa no kaggle. 
-Foi feita a modelagem de uma base de dados PostgreSQL onde foram importados os dados, posteriormente os dados relevantes foram reunidos e exportados por meio de uma query.
+Foi feita a modelagem de uma base de dados PostgreSQL onde foram importados os dados, posteriormente os dados relevantes foram consultados e exportados.
 Os dados foram analisados usando a biblioteca pandas e visualizados com seaborn. A partir daí foram gerados insights referentes a oportunidades de crescimento para olist. Foi gerado o relatório abaixo referente à oportunidade.
 
 ## Tecnologias
