@@ -1,0 +1,658 @@
+,super_category,product_category_name,variable,value
+0,other,agro_industria_e_comercio,"('review_score', 'mean')",4.0
+1,Alimentos e bebidas,alimentos,"('review_score', 'mean')",4.218181818181818
+2,Alimentos e bebidas,alimentos_bebidas,"('review_score', 'mean')",4.315412186379929
+3,other,artes,"('review_score', 'mean')",3.9371980676328495
+4,other,artes_e_artesanato,"('review_score', 'mean')",4.125
+5,Casa e decoração,artigos_de_festas,"('review_score', 'mean')",3.767441860465116
+6,Casa e decoração,artigos_de_natal,"('review_score', 'mean')",4.02054794520548
+7,other,audio,"('review_score', 'mean')",3.825484764542936
+8,other,automotivo,"('review_score', 'mean')",4.065511511986708
+9,other,bebes,"('review_score', 'mean')",4.011811023622047
+10,Alimentos e bebidas,bebidas,"('review_score', 'mean')",4.047745358090186
+11,Perfumaria e cosméticos + saúde,beleza_saude,"('review_score', 'mean')",4.142768273716952
+12,other,brinquedos,"('review_score', 'mean')",4.158640919090687
+13,Casa e decoração,cama_mesa_banho,"('review_score', 'mean')",3.8956631049654304
+14,Casa e decoração,casa_conforto,"('review_score', 'mean')",3.829885057471264
+15,Casa e decoração,casa_conforto_2,"('review_score', 'mean')",3.6296296296296298
+16,other,casa_construcao,"('review_score', 'mean')",3.94
+17,other,cds_dvds_musicais,"('review_score', 'mean')",4.642857142857143
+18,other,cine_foto,"('review_score', 'mean')",4.205479452054795
+19,Eletrodomésticos,climatizacao,"('review_score', 'mean')",3.969178082191781
+20,other,consoles_games,"('review_score', 'mean')",4.02307009760426
+21,other,construcao_ferramentas_construcao,"('review_score', 'mean')",4.052915766738661
+22,other,construcao_ferramentas_ferramentas,"('review_score', 'mean')",4.444444444444445
+23,other,construcao_ferramentas_iluminacao,"('review_score', 'mean')",4.054054054054054
+24,other,construcao_ferramentas_jardim,"('review_score', 'mean')",4.054166666666666
+25,other,construcao_ferramentas_seguranca,"('review_score', 'mean')",3.844559585492228
+26,other,cool_stuff,"('review_score', 'mean')",4.146341463414634
+27,other,dvds_blu_ray,"('review_score', 'mean')",4.079365079365079
+28,Eletrodomésticos,eletrodomesticos,"('review_score', 'mean')",4.172456575682382
+29,Eletrodomésticos,eletrodomesticos_2,"('review_score', 'mean')",4.142857142857143
+30,other,eletronicos,"('review_score', 'mean')",4.037468170243725
+31,Eletrodomésticos,eletroportateis,"('review_score', 'mean')",4.149187592319055
+32,other,esporte_lazer,"('review_score', 'mean')",4.107986111111111
+33,Moda e acessórios,fashion_bolsas_e_acessorios,"('review_score', 'mean')",4.144678764100049
+34,Moda e acessórios,fashion_calcados,"('review_score', 'mean')",4.233716475095785
+35,Moda e acessórios,fashion_esporte,"('review_score', 'mean')",4.258064516129032
+36,Moda e acessórios,fashion_roupa_feminina,"('review_score', 'mean')",3.78
+37,Moda e acessórios,fashion_roupa_infanto_juvenil,"('review_score', 'mean')",4.5
+38,Moda e acessórios,fashion_roupa_masculina,"('review_score', 'mean')",3.6412213740458017
+39,Moda e acessórios,fashion_underwear_e_moda_praia,"('review_score', 'mean')",3.976923076923077
+40,other,ferramentas_jardim,"('review_score', 'mean')",4.042735042735043
+41,other,flores,"('review_score', 'mean')",4.419354838709677
+42,other,fraldas_higiene,"('review_score', 'mean')",3.2564102564102564
+43,other,industria_comercio_e_negocios,"('review_score', 'mean')",4.101503759398496
+44,other,informatica_acessorios,"('review_score', 'mean')",3.9308192126385526
+45,other,instrumentos_musicais,"('review_score', 'mean')",4.152592592592592
+46,other,la_cuisine,"('review_score', 'mean')",4.0
+47,other,livros_importados,"('review_score', 'mean')",4.4
+48,other,livros_interesse_geral,"('review_score', 'mean')",4.446265938069216
+49,other,livros_tecnicos,"('review_score', 'mean')",4.368421052631579
+50,other,malas_acessorios,"('review_score', 'mean')",4.315257352941177
+51,other,market_place,"('review_score', 'mean')",4.019417475728155
+52,Casa e decoração,moveis_colchao_e_estofado,"('review_score', 'mean')",3.8157894736842106
+53,Casa e decoração,moveis_cozinha_area_de_servico_jantar_e_jardim,"('review_score', 'mean')",3.974910394265233
+54,Casa e decoração,moveis_decoracao,"('review_score', 'mean')",3.9034929780338494
+55,Casa e decoração,moveis_escritorio,"('review_score', 'mean')",3.4931831653823355
+56,Casa e decoração,moveis_quarto,"('review_score', 'mean')",4.118181818181818
+57,Casa e decoração,moveis_sala,"('review_score', 'mean')",3.904382470119522
+58,other,musica,"('review_score', 'mean')",4.2105263157894735
+59,other,papelaria,"('review_score', 'mean')",4.193857199840447
+60,other,pc_gamer,"('review_score', 'mean')",3.333333333333333
+61,other,pcs,"('review_score', 'mean')",4.175
+62,Perfumaria e cosméticos + saúde,perfumaria,"('review_score', 'mean')",4.161940952937737
+63,other,pet_shop,"('review_score', 'mean')",4.185146982980918
+64,Eletrodomésticos,portateis_casa_forno_e_cafe,"('review_score', 'mean')",4.302631578947368
+65,Eletrodomésticos,portateis_cozinha_e_preparadores_de_alimentos,"('review_score', 'mean')",3.2666666666666666
+66,other,relogios_presentes,"('review_score', 'mean')",4.019159663865546
+67,other,seguros_e_servicos,"('review_score', 'mean')",2.5
+68,other,sinalizacao_e_seguranca,"('review_score', 'mean')",4.086294416243655
+69,other,tablets_impressao_imagem,"('review_score', 'mean')",4.1234567901234565
+70,other,telefonia,"('review_score', 'mean')",3.946867389860527
+71,other,telefonia_fixa,"('review_score', 'mean')",3.683206106870229
+72,Casa e decoração,utilidades_domesticas,"('review_score', 'mean')",4.055019444044361
+73,other,agro_industria_e_comercio,"('order_id', 'nunique')",182.0
+74,Alimentos e bebidas,alimentos,"('order_id', 'nunique')",450.0
+75,Alimentos e bebidas,alimentos_bebidas,"('order_id', 'nunique')",227.0
+76,other,artes,"('order_id', 'nunique')",202.0
+77,other,artes_e_artesanato,"('order_id', 'nunique')",23.0
+78,Casa e decoração,artigos_de_festas,"('order_id', 'nunique')",39.0
+79,Casa e decoração,artigos_de_natal,"('order_id', 'nunique')",128.0
+80,other,audio,"('order_id', 'nunique')",350.0
+81,other,automotivo,"('order_id', 'nunique')",3897.0
+82,other,bebes,"('order_id', 'nunique')",2885.0
+83,Alimentos e bebidas,bebidas,"('order_id', 'nunique')",297.0
+84,Perfumaria e cosméticos + saúde,beleza_saude,"('order_id', 'nunique')",8836.0
+85,other,brinquedos,"('order_id', 'nunique')",3886.0
+86,Casa e decoração,cama_mesa_banho,"('order_id', 'nunique')",9417.0
+87,Casa e decoração,casa_conforto,"('order_id', 'nunique')",397.0
+88,Casa e decoração,casa_conforto_2,"('order_id', 'nunique')",24.0
+89,other,casa_construcao,"('order_id', 'nunique')",490.0
+90,other,cds_dvds_musicais,"('order_id', 'nunique')",12.0
+91,other,cine_foto,"('order_id', 'nunique')",65.0
+92,Eletrodomésticos,climatizacao,"('order_id', 'nunique')",253.0
+93,other,consoles_games,"('order_id', 'nunique')",1062.0
+94,other,construcao_ferramentas_construcao,"('order_id', 'nunique')",748.0
+95,other,construcao_ferramentas_ferramentas,"('order_id', 'nunique')",97.0
+96,other,construcao_ferramentas_iluminacao,"('order_id', 'nunique')",244.0
+97,other,construcao_ferramentas_jardim,"('order_id', 'nunique')",194.0
+98,other,construcao_ferramentas_seguranca,"('order_id', 'nunique')",167.0
+99,other,cool_stuff,"('order_id', 'nunique')",3632.0
+100,other,dvds_blu_ray,"('order_id', 'nunique')",59.0
+101,Eletrodomésticos,eletrodomesticos,"('order_id', 'nunique')",764.0
+102,Eletrodomésticos,eletrodomesticos_2,"('order_id', 'nunique')",234.0
+103,other,eletronicos,"('order_id', 'nunique')",2550.0
+104,Eletrodomésticos,eletroportateis,"('order_id', 'nunique')",630.0
+105,other,esporte_lazer,"('order_id', 'nunique')",7720.0
+106,Moda e acessórios,fashion_bolsas_e_acessorios,"('order_id', 'nunique')",1864.0
+107,Moda e acessórios,fashion_calcados,"('order_id', 'nunique')",240.0
+108,Moda e acessórios,fashion_esporte,"('order_id', 'nunique')",27.0
+109,Moda e acessórios,fashion_roupa_feminina,"('order_id', 'nunique')",39.0
+110,Moda e acessórios,fashion_roupa_infanto_juvenil,"('order_id', 'nunique')",8.0
+111,Moda e acessórios,fashion_roupa_masculina,"('order_id', 'nunique')",112.0
+112,Moda e acessórios,fashion_underwear_e_moda_praia,"('order_id', 'nunique')",121.0
+113,other,ferramentas_jardim,"('order_id', 'nunique')",3518.0
+114,other,flores,"('order_id', 'nunique')",29.0
+115,other,fraldas_higiene,"('order_id', 'nunique')",27.0
+116,other,industria_comercio_e_negocios,"('order_id', 'nunique')",235.0
+117,other,informatica_acessorios,"('order_id', 'nunique')",6689.0
+118,other,instrumentos_musicais,"('order_id', 'nunique')",628.0
+119,other,la_cuisine,"('order_id', 'nunique')",13.0
+120,other,livros_importados,"('order_id', 'nunique')",53.0
+121,other,livros_interesse_geral,"('order_id', 'nunique')",512.0
+122,other,livros_tecnicos,"('order_id', 'nunique')",260.0
+123,other,malas_acessorios,"('order_id', 'nunique')",1034.0
+124,other,market_place,"('order_id', 'nunique')",280.0
+125,Casa e decoração,moveis_colchao_e_estofado,"('order_id', 'nunique')",38.0
+126,Casa e decoração,moveis_cozinha_area_de_servico_jantar_e_jardim,"('order_id', 'nunique')",247.0
+127,Casa e decoração,moveis_decoracao,"('order_id', 'nunique')",6449.0
+128,Casa e decoração,moveis_escritorio,"('order_id', 'nunique')",1273.0
+129,Casa e decoração,moveis_quarto,"('order_id', 'nunique')",95.0
+130,Casa e decoração,moveis_sala,"('order_id', 'nunique')",422.0
+131,other,musica,"('order_id', 'nunique')",38.0
+132,other,papelaria,"('order_id', 'nunique')",2311.0
+133,other,pc_gamer,"('order_id', 'nunique')",8.0
+134,other,pcs,"('order_id', 'nunique')",181.0
+135,Perfumaria e cosméticos + saúde,perfumaria,"('order_id', 'nunique')",3162.0
+136,other,pet_shop,"('order_id', 'nunique')",1710.0
+137,Eletrodomésticos,portateis_casa_forno_e_cafe,"('order_id', 'nunique')",75.0
+138,Eletrodomésticos,portateis_cozinha_e_preparadores_de_alimentos,"('order_id', 'nunique')",14.0
+139,other,relogios_presentes,"('order_id', 'nunique')",5624.0
+140,other,seguros_e_servicos,"('order_id', 'nunique')",2.0
+141,other,sinalizacao_e_seguranca,"('order_id', 'nunique')",140.0
+142,other,tablets_impressao_imagem,"('order_id', 'nunique')",79.0
+143,other,telefonia,"('order_id', 'nunique')",4199.0
+144,other,telefonia_fixa,"('order_id', 'nunique')",217.0
+145,Casa e decoração,utilidades_domesticas,"('order_id', 'nunique')",5884.0
+146,other,agro_industria_e_comercio,"('order_total_price', 'median')",263.5
+147,Alimentos e bebidas,alimentos,"('order_total_price', 'median')",56.97
+148,Alimentos e bebidas,alimentos_bebidas,"('order_total_price', 'median')",40.8
+149,other,artes,"('order_total_price', 'median')",99.9
+150,other,artes_e_artesanato,"('order_total_price', 'median')",49.9
+151,Casa e decoração,artigos_de_festas,"('order_total_price', 'median')",67.9
+152,Casa e decoração,artigos_de_natal,"('order_total_price', 'median')",55.9
+153,other,audio,"('order_total_price', 'median')",89.0
+154,other,automotivo,"('order_total_price', 'median')",89.99
+155,other,bebes,"('order_total_price', 'median')",79.9
+156,Alimentos e bebidas,bebidas,"('order_total_price', 'median')",47.49
+157,Perfumaria e cosméticos + saúde,beleza_saude,"('order_total_price', 'median')",84.99
+158,other,brinquedos,"('order_total_price', 'median')",86.99
+159,Casa e decoração,cama_mesa_banho,"('order_total_price', 'median')",86.9
+160,Casa e decoração,casa_conforto,"('order_total_price', 'median')",89.9
+161,Casa e decoração,casa_conforto_2,"('order_total_price', 'median')",12.9
+162,other,casa_construcao,"('order_total_price', 'median')",113.85
+163,other,cds_dvds_musicais,"('order_total_price', 'median')",55.0
+164,other,cine_foto,"('order_total_price', 'median')",79.0
+165,Eletrodomésticos,climatizacao,"('order_total_price', 'median')",149.0
+166,other,consoles_games,"('order_total_price', 'median')",67.0
+167,other,construcao_ferramentas_construcao,"('order_total_price', 'median')",99.9
+168,other,construcao_ferramentas_ferramentas,"('order_total_price', 'median')",72.2
+169,other,construcao_ferramentas_iluminacao,"('order_total_price', 'median')",120.0
+170,other,construcao_ferramentas_jardim,"('order_total_price', 'median')",63.900000000000006
+171,other,construcao_ferramentas_seguranca,"('order_total_price', 'median')",140.39499999999998
+172,other,cool_stuff,"('order_total_price', 'median')",129.99
+173,other,dvds_blu_ray,"('order_total_price', 'median')",24.45
+174,Eletrodomésticos,eletrodomesticos,"('order_total_price', 'median')",46.75
+175,Eletrodomésticos,eletrodomesticos_2,"('order_total_price', 'median')",228.945
+176,other,eletronicos,"('order_total_price', 'median')",21.9
+177,Eletrodomésticos,eletroportateis,"('order_total_price', 'median')",103.99
+178,other,esporte_lazer,"('order_total_price', 'median')",89.0
+179,Moda e acessórios,fashion_bolsas_e_acessorios,"('order_total_price', 'median')",49.9
+180,Moda e acessórios,fashion_calcados,"('order_total_price', 'median')",84.9
+181,Moda e acessórios,fashion_esporte,"('order_total_price', 'median')",59.9
+182,Moda e acessórios,fashion_roupa_feminina,"('order_total_price', 'median')",62.44
+183,Moda e acessórios,fashion_roupa_infanto_juvenil,"('order_total_price', 'median')",69.945
+184,Moda e acessórios,fashion_roupa_masculina,"('order_total_price', 'median')",64.95
+185,Moda e acessórios,fashion_underwear_e_moda_praia,"('order_total_price', 'median')",59.9
+186,other,ferramentas_jardim,"('order_total_price', 'median')",74.94
+187,other,flores,"('order_total_price', 'median')",29.89
+188,other,fraldas_higiene,"('order_total_price', 'median')",46.0
+189,other,industria_comercio_e_negocios,"('order_total_price', 'median')",104.0
+190,other,informatica_acessorios,"('order_total_price', 'median')",89.49
+191,other,instrumentos_musicais,"('order_total_price', 'median')",107.2
+192,other,la_cuisine,"('order_total_price', 'median')",137.0
+193,other,livros_importados,"('order_total_price', 'median')",64.995
+194,other,livros_interesse_geral,"('order_total_price', 'median')",48.9
+195,other,livros_tecnicos,"('order_total_price', 'median')",57.49
+196,other,malas_acessorios,"('order_total_price', 'median')",102.9
+197,other,market_place,"('order_total_price', 'median')",62.8
+198,Casa e decoração,moveis_colchao_e_estofado,"('order_total_price', 'median')",85.0
+199,Casa e decoração,moveis_cozinha_area_de_servico_jantar_e_jardim,"('order_total_price', 'median')",129.0
+200,Casa e decoração,moveis_decoracao,"('order_total_price', 'median')",76.8
+201,Casa e decoração,moveis_escritorio,"('order_total_price', 'median')",169.99
+202,Casa e decoração,moveis_quarto,"('order_total_price', 'median')",179.94
+203,Casa e decoração,moveis_sala,"('order_total_price', 'median')",109.97
+204,other,musica,"('order_total_price', 'median')",54.89
+205,other,papelaria,"('order_total_price', 'median')",79.0
+206,other,pc_gamer,"('order_total_price', 'median')",219.0
+207,other,pcs,"('order_total_price', 'median')",1200.0
+208,Perfumaria e cosméticos + saúde,perfumaria,"('order_total_price', 'median')",89.66
+209,other,pet_shop,"('order_total_price', 'median')",94.9
+210,Eletrodomésticos,portateis_casa_forno_e_cafe,"('order_total_price', 'median')",609.995
+211,Eletrodomésticos,portateis_cozinha_e_preparadores_de_alimentos,"('order_total_price', 'median')",34.9
+212,other,relogios_presentes,"('order_total_price', 'median')",135.0
+213,other,seguros_e_servicos,"('order_total_price', 'median')",141.64499999999998
+214,other,sinalizacao_e_seguranca,"('order_total_price', 'median')",79.9
+215,other,tablets_impressao_imagem,"('order_total_price', 'median')",99.0
+216,other,telefonia,"('order_total_price', 'median')",29.99
+217,other,telefonia_fixa,"('order_total_price', 'median')",79.99
+218,Casa e decoração,utilidades_domesticas,"('order_total_price', 'median')",68.4
+219,other,agro_industria_e_comercio,"('order_total_price', 'sum')",91634.76
+220,Alimentos e bebidas,alimentos,"('order_total_price', 'sum')",33180.45
+221,Alimentos e bebidas,alimentos_bebidas,"('order_total_price', 'sum')",17888.62
+222,other,artes,"('order_total_price', 'sum')",25366.09
+223,other,artes_e_artesanato,"('order_total_price', 'sum')",1875.9
+224,Casa e decoração,artigos_de_festas,"('order_total_price', 'sum')",4685.78
+225,Casa e decoração,artigos_de_natal,"('order_total_price', 'sum')",11372.5
+226,other,audio,"('order_total_price', 'sum')",52017.71
+227,other,automotivo,"('order_total_price', 'sum')",664859.42
+228,other,bebes,"('order_total_price', 'sum')",436052.06
+229,Alimentos e bebidas,bebidas,"('order_total_price', 'sum')",40413.78
+230,Perfumaria e cosméticos + saúde,beleza_saude,"('order_total_price', 'sum')",1352030.58
+231,other,brinquedos,"('order_total_price', 'sum')",508785.26
+232,Casa e decoração,cama_mesa_banho,"('order_total_price', 'sum')",1249271.37
+233,Casa e decoração,casa_conforto,"('order_total_price', 'sum')",66188.19
+234,Casa e decoração,casa_conforto_2,"('order_total_price', 'sum')",876.37
+235,other,casa_construcao,"('order_total_price', 'sum')",99861.89
+236,other,cds_dvds_musicais,"('order_total_price', 'sum')",820.0
+237,other,cine_foto,"('order_total_price', 'sum')",7251.66
+238,Eletrodomésticos,climatizacao,"('order_total_price', 'sum')",67920.69
+239,other,consoles_games,"('order_total_price', 'sum')",165351.68
+240,other,construcao_ferramentas_construcao,"('order_total_price', 'sum')",176186.06
+241,other,construcao_ferramentas_ferramentas,"('order_total_price', 'sum')",17359.55
+242,other,construcao_ferramentas_iluminacao,"('order_total_price', 'sum')",49768.04
+243,other,construcao_ferramentas_jardim,"('order_total_price', 'sum')",31470.15
+244,other,construcao_ferramentas_seguranca,"('order_total_price', 'sum')",50363.12
+245,other,cool_stuff,"('order_total_price', 'sum')",661788.26
+246,other,dvds_blu_ray,"('order_total_price', 'sum')",6174.06
+247,Eletrodomésticos,eletrodomesticos,"('order_total_price', 'sum')",83357.05
+248,Eletrodomésticos,eletrodomesticos_2,"('order_total_price', 'sum')",113968.17
+249,other,eletronicos,"('order_total_price', 'sum')",180018.76
+250,Eletrodomésticos,eletroportateis,"('order_total_price', 'sum')",199758.04
+251,other,esporte_lazer,"('order_total_price', 'sum')",1088684.28
+252,Moda e acessórios,fashion_bolsas_e_acessorios,"('order_total_price', 'sum')",167797.83
+253,Moda e acessórios,fashion_calcados,"('order_total_price', 'sum')",25277.11
+254,Moda e acessórios,fashion_esporte,"('order_total_price', 'sum')",2508.79
+255,Moda e acessórios,fashion_roupa_feminina,"('order_total_price', 'sum')",3524.17
+256,Moda e acessórios,fashion_roupa_infanto_juvenil,"('order_total_price', 'sum')",569.85
+257,Moda e acessórios,fashion_roupa_masculina,"('order_total_price', 'sum')",12634.41
+258,Moda e acessórios,fashion_underwear_e_moda_praia,"('order_total_price', 'sum')",9931.24
+259,other,ferramentas_jardim,"('order_total_price', 'sum')",585714.3099999999
+260,other,flores,"('order_total_price', 'sum')",1257.14
+261,other,fraldas_higiene,"('order_total_price', 'sum')",2255.59
+262,other,industria_comercio_e_negocios,"('order_total_price', 'sum')",43157.76
+263,other,informatica_acessorios,"('order_total_price', 'sum')",1145534.03
+264,other,instrumentos_musicais,"('order_total_price', 'sum')",200787.07
+265,other,la_cuisine,"('order_total_price', 'sum')",2218.99
+266,other,livros_importados,"('order_total_price', 'sum')",5258.22
+267,other,livros_interesse_geral,"('order_total_price', 'sum')",50232.8
+268,other,livros_tecnicos,"('order_total_price', 'sum')",19779.81
+269,other,malas_acessorios,"('order_total_price', 'sum')",147430.96
+270,other,market_place,"('order_total_price', 'sum')",32647.13
+271,Casa e decoração,moveis_colchao_e_estofado,"('order_total_price', 'sum')",4368.08
+272,Casa e decoração,moveis_cozinha_area_de_servico_jantar_e_jardim,"('order_total_price', 'sum')",52572.35
+273,Casa e decoração,moveis_decoracao,"('order_total_price', 'sum')",938017.78
+274,Casa e decoração,moveis_escritorio,"('order_total_price', 'sum')",395781.32
+275,Casa e decoração,moveis_quarto,"('order_total_price', 'sum')",23417.15
+276,Casa e decoração,moveis_sala,"('order_total_price', 'sum')",87693.85
+277,other,musica,"('order_total_price', 'sum')",6059.32
+278,other,papelaria,"('order_total_price', 'sum')",246001.69
+279,other,pc_gamer,"('order_total_price', 'sum')",1894.94
+280,other,pcs,"('order_total_price', 'sum')",247580.06
+281,Perfumaria e cosméticos + saúde,perfumaria,"('order_total_price', 'sum')",421144.14
+282,other,pet_shop,"('order_total_price', 'sum')",237998.39
+283,Eletrodomésticos,portateis_casa_forno_e_cafe,"('order_total_price', 'sum')",48040.71
+284,Eletrodomésticos,portateis_cozinha_e_preparadores_de_alimentos,"('order_total_price', 'sum')",3986.06
+285,other,relogios_presentes,"('order_total_price', 'sum')",1260704.23
+286,other,seguros_e_servicos,"('order_total_price', 'sum')",283.29
+287,other,sinalizacao_e_seguranca,"('order_total_price', 'sum')",34797.13
+288,other,tablets_impressao_imagem,"('order_total_price', 'sum')",8082.21
+289,other,telefonia,"('order_total_price', 'sum')",360311.59
+290,other,telefonia_fixa,"('order_total_price', 'sum')",128862.78
+291,Casa e decoração,utilidades_domesticas,"('order_total_price', 'sum')",752637.68
+292,other,agro_industria_e_comercio,"('order_item_id', 'mean')",1.25
+293,Alimentos e bebidas,alimentos,"('order_item_id', 'mean')",1.1941176470588235
+294,Alimentos e bebidas,alimentos_bebidas,"('order_item_id', 'mean')",1.3107142857142855
+295,other,artes,"('order_item_id', 'mean')",1.1004784688995215
+296,other,artes_e_artesanato,"('order_item_id', 'mean')",1.0833333333333333
+297,Casa e decoração,artigos_de_festas,"('order_item_id', 'mean')",1.0930232558139534
+298,Casa e decoração,artigos_de_natal,"('order_item_id', 'mean')",1.3202614379084967
+299,other,audio,"('order_item_id', 'mean')",1.0520547945205478
+300,other,automotivo,"('order_item_id', 'mean')",1.1527255639097744
+301,other,bebes,"('order_item_id', 'mean')",1.1178001952489425
+302,Alimentos e bebidas,bebidas,"('order_item_id', 'mean')",1.5065274151436032
+303,Perfumaria e cosméticos + saúde,beleza_saude,"('order_item_id', 'mean')",1.1452657551146297
+304,other,brinquedos,"('order_item_id', 'mean')",1.0795151515151515
+305,Casa e decoração,cama_mesa_banho,"('order_item_id', 'mean')",1.2343389529724933
+306,Casa e decoração,casa_conforto,"('order_item_id', 'mean')",1.1807780320366132
+307,Casa e decoração,casa_conforto_2,"('order_item_id', 'mean')",1.3
+308,other,casa_construcao,"('order_item_id', 'mean')",1.3487603305785123
+309,other,cds_dvds_musicais,"('order_item_id', 'mean')",1.1428571428571428
+310,other,cine_foto,"('order_item_id', 'mean')",1.1369863013698631
+311,Eletrodomésticos,climatizacao,"('order_item_id', 'mean')",1.2188552188552189
+312,other,consoles_games,"('order_item_id', 'mean')",1.0957820738137083
+313,other,construcao_ferramentas_construcao,"('order_item_id', 'mean')",1.3877551020408163
+314,other,construcao_ferramentas_ferramentas,"('order_item_id', 'mean')",1.058252427184466
+315,other,construcao_ferramentas_iluminacao,"('order_item_id', 'mean')",1.419672131147541
+316,other,construcao_ferramentas_jardim,"('order_item_id', 'mean')",1.2791666666666666
+317,other,construcao_ferramentas_seguranca,"('order_item_id', 'mean')",1.2989690721649485
+318,other,cool_stuff,"('order_item_id', 'mean')",1.0740935365212825
+319,other,dvds_blu_ray,"('order_item_id', 'mean')",1.09375
+320,Eletrodomésticos,eletrodomesticos,"('order_item_id', 'mean')",1.0086526576019776
+321,Eletrodomésticos,eletrodomesticos_2,"('order_item_id', 'mean')",1.0208333333333333
+322,other,eletronicos,"('order_item_id', 'mean')",1.1174132947976878
+323,Eletrodomésticos,eletroportateis,"('order_item_id', 'mean')",1.0966325036603222
+324,other,esporte_lazer,"('order_item_id', 'mean')",1.1495402298850574
+325,Moda e acessórios,fashion_bolsas_e_acessorios,"('order_item_id', 'mean')",1.1165853658536586
+326,Moda e acessórios,fashion_calcados,"('order_item_id', 'mean')",1.1169811320754717
+327,Moda e acessórios,fashion_esporte,"('order_item_id', 'mean')",1.2580645161290325
+328,Moda e acessórios,fashion_roupa_feminina,"('order_item_id', 'mean')",1.36
+329,Moda e acessórios,fashion_roupa_infanto_juvenil,"('order_item_id', 'mean')",1.0
+330,Moda e acessórios,fashion_roupa_masculina,"('order_item_id', 'mean')",1.181818181818182
+331,Moda e acessórios,fashion_underwear_e_moda_praia,"('order_item_id', 'mean')",1.1221374045801529
+332,other,ferramentas_jardim,"('order_item_id', 'mean')",1.3517541848199954
+333,other,flores,"('order_item_id', 'mean')",1.121212121212121
+334,other,fraldas_higiene,"('order_item_id', 'mean')",1.6923076923076923
+335,other,industria_comercio_e_negocios,"('order_item_id', 'mean')",1.1635687732342008
+336,other,informatica_acessorios,"('order_item_id', 'mean')",1.2615910818343046
+337,other,instrumentos_musicais,"('order_item_id', 'mean')",1.1292217327459615
+338,other,la_cuisine,"('order_item_id', 'mean')",1.1428571428571428
+339,other,livros_importados,"('order_item_id', 'mean')",1.1333333333333333
+340,other,livros_interesse_geral,"('order_item_id', 'mean')",1.1012658227848102
+341,other,livros_tecnicos,"('order_item_id', 'mean')",1.029739776951673
+342,other,malas_acessorios,"('order_item_id', 'mean')",1.0723443223443223
+343,other,market_place,"('order_item_id', 'mean')",1.2218649517684887
+344,Casa e decoração,moveis_colchao_e_estofado,"('order_item_id', 'mean')",1.0
+345,Casa e decoração,moveis_cozinha_area_de_servico_jantar_e_jardim,"('order_item_id', 'mean')",1.1565836298932384
+346,Casa e decoração,moveis_decoracao,"('order_item_id', 'mean')",1.385977421271539
+347,Casa e decoração,moveis_escritorio,"('order_item_id', 'mean')",1.5067607289829512
+348,Casa e decoração,moveis_quarto,"('order_item_id', 'mean')",1.1454545454545455
+349,Casa e decoração,moveis_sala,"('order_item_id', 'mean')",1.3214990138067062
+350,other,musica,"('order_item_id', 'mean')",1.0263157894736843
+351,other,papelaria,"('order_item_id', 'mean')",1.1144554455445546
+352,other,pc_gamer,"('order_item_id', 'mean')",1.2222222222222223
+353,other,pcs,"('order_item_id', 'mean')",1.1576354679802956
+354,Perfumaria e cosméticos + saúde,perfumaria,"('order_item_id', 'mean')",1.1071324599708878
+355,other,pet_shop,"('order_item_id', 'mean')",1.1688045151359672
+356,Eletrodomésticos,portateis_casa_forno_e_cafe,"('order_item_id', 'mean')",1.013157894736842
+357,Eletrodomésticos,portateis_cozinha_e_preparadores_de_alimentos,"('order_item_id', 'mean')",1.0666666666666669
+358,other,relogios_presentes,"('order_item_id', 'mean')",1.1004832527912014
+359,other,seguros_e_servicos,"('order_item_id', 'mean')",1.0
+360,other,sinalizacao_e_seguranca,"('order_item_id', 'mean')",1.542713567839196
+361,other,tablets_impressao_imagem,"('order_item_id', 'mean')",1.072289156626506
+362,other,telefonia,"('order_item_id', 'mean')",1.1353846153846154
+363,other,telefonia_fixa,"('order_item_id', 'mean')",1.3849056603773584
+364,Casa e decoração,utilidades_domesticas,"('order_item_id', 'mean')",1.2991844326799256
+365,other,agro_industria_e_comercio,"('seller_id', 'nunique')",34.0
+366,Alimentos e bebidas,alimentos,"('seller_id', 'nunique')",58.0
+367,Alimentos e bebidas,alimentos_bebidas,"('seller_id', 'nunique')",34.0
+368,other,artes,"('seller_id', 'nunique')",36.0
+369,other,artes_e_artesanato,"('seller_id', 'nunique')",13.0
+370,Casa e decoração,artigos_de_festas,"('seller_id', 'nunique')",12.0
+371,Casa e decoração,artigos_de_natal,"('seller_id', 'nunique')",17.0
+372,other,audio,"('seller_id', 'nunique')",36.0
+373,other,automotivo,"('seller_id', 'nunique')",383.0
+374,other,bebes,"('seller_id', 'nunique')",244.0
+375,Alimentos e bebidas,bebidas,"('seller_id', 'nunique')",36.0
+376,Perfumaria e cosméticos + saúde,beleza_saude,"('seller_id', 'nunique')",492.0
+377,other,brinquedos,"('seller_id', 'nunique')",252.0
+378,Casa e decoração,cama_mesa_banho,"('seller_id', 'nunique')",196.0
+379,Casa e decoração,casa_conforto,"('seller_id', 'nunique')",20.0
+380,Casa e decoração,casa_conforto_2,"('seller_id', 'nunique')",4.0
+381,other,casa_construcao,"('seller_id', 'nunique')",68.0
+382,other,cds_dvds_musicais,"('seller_id', 'nunique')",1.0
+383,other,cine_foto,"('seller_id', 'nunique')",14.0
+384,Eletrodomésticos,climatizacao,"('seller_id', 'nunique')",52.0
+385,other,consoles_games,"('seller_id', 'nunique')",82.0
+386,other,construcao_ferramentas_construcao,"('seller_id', 'nunique')",128.0
+387,other,construcao_ferramentas_ferramentas,"('seller_id', 'nunique')",24.0
+388,other,construcao_ferramentas_iluminacao,"('seller_id', 'nunique')",37.0
+389,other,construcao_ferramentas_jardim,"('seller_id', 'nunique')",33.0
+390,other,construcao_ferramentas_seguranca,"('seller_id', 'nunique')",35.0
+391,other,cool_stuff,"('seller_id', 'nunique')",267.0
+392,other,dvds_blu_ray,"('seller_id', 'nunique')",10.0
+393,Eletrodomésticos,eletrodomesticos,"('seller_id', 'nunique')",48.0
+394,Eletrodomésticos,eletrodomesticos_2,"('seller_id', 'nunique')",46.0
+395,other,eletronicos,"('seller_id', 'nunique')",149.0
+396,Eletrodomésticos,eletroportateis,"('seller_id', 'nunique')",105.0
+397,other,esporte_lazer,"('seller_id', 'nunique')",481.0
+398,Moda e acessórios,fashion_bolsas_e_acessorios,"('seller_id', 'nunique')",99.0
+399,Moda e acessórios,fashion_calcados,"('seller_id', 'nunique')",15.0
+400,Moda e acessórios,fashion_esporte,"('seller_id', 'nunique')",10.0
+401,Moda e acessórios,fashion_roupa_feminina,"('seller_id', 'nunique')",11.0
+402,Moda e acessórios,fashion_roupa_infanto_juvenil,"('seller_id', 'nunique')",4.0
+403,Moda e acessórios,fashion_roupa_masculina,"('seller_id', 'nunique')",13.0
+404,Moda e acessórios,fashion_underwear_e_moda_praia,"('seller_id', 'nunique')",9.0
+405,other,ferramentas_jardim,"('seller_id', 'nunique')",237.0
+406,other,flores,"('seller_id', 'nunique')",3.0
+407,other,fraldas_higiene,"('seller_id', 'nunique')",8.0
+408,other,industria_comercio_e_negocios,"('seller_id', 'nunique')",29.0
+409,other,informatica_acessorios,"('seller_id', 'nunique')",287.0
+410,other,instrumentos_musicais,"('seller_id', 'nunique')",70.0
+411,other,la_cuisine,"('seller_id', 'nunique')",2.0
+412,other,livros_importados,"('seller_id', 'nunique')",7.0
+413,other,livros_interesse_geral,"('seller_id', 'nunique')",54.0
+414,other,livros_tecnicos,"('seller_id', 'nunique')",26.0
+415,other,malas_acessorios,"('seller_id', 'nunique')",73.0
+416,other,market_place,"('seller_id', 'nunique')",59.0
+417,Casa e decoração,moveis_colchao_e_estofado,"('seller_id', 'nunique')",5.0
+418,Casa e decoração,moveis_cozinha_area_de_servico_jantar_e_jardim,"('seller_id', 'nunique')",52.0
+419,Casa e decoração,moveis_decoracao,"('seller_id', 'nunique')",370.0
+420,Casa e decoração,moveis_escritorio,"('seller_id', 'nunique')",34.0
+421,Casa e decoração,moveis_quarto,"('seller_id', 'nunique')",23.0
+422,Casa e decoração,moveis_sala,"('seller_id', 'nunique')",56.0
+423,other,musica,"('seller_id', 'nunique')",19.0
+424,other,papelaria,"('seller_id', 'nunique')",173.0
+425,other,pc_gamer,"('seller_id', 'nunique')",2.0
+426,other,pcs,"('seller_id', 'nunique')",9.0
+427,Perfumaria e cosméticos + saúde,perfumaria,"('seller_id', 'nunique')",175.0
+428,other,pet_shop,"('seller_id', 'nunique')",137.0
+429,Eletrodomésticos,portateis_casa_forno_e_cafe,"('seller_id', 'nunique')",15.0
+430,Eletrodomésticos,portateis_cozinha_e_preparadores_de_alimentos,"('seller_id', 'nunique')",5.0
+431,other,relogios_presentes,"('seller_id', 'nunique')",101.0
+432,other,seguros_e_servicos,"('seller_id', 'nunique')",2.0
+433,other,sinalizacao_e_seguranca,"('seller_id', 'nunique')",46.0
+434,other,tablets_impressao_imagem,"('seller_id', 'nunique')",6.0
+435,other,telefonia,"('seller_id', 'nunique')",149.0
+436,other,telefonia_fixa,"('seller_id', 'nunique')",49.0
+437,Casa e decoração,utilidades_domesticas,"('seller_id', 'nunique')",468.0
+438,other,agro_industria_e_comercio,"('order_total_price_%', '')",0.01
+439,Alimentos e bebidas,alimentos,"('order_total_price_%', '')",0.0
+440,Alimentos e bebidas,alimentos_bebidas,"('order_total_price_%', '')",0.0
+441,other,artes,"('order_total_price_%', '')",0.0
+442,other,artes_e_artesanato,"('order_total_price_%', '')",0.0
+443,Casa e decoração,artigos_de_festas,"('order_total_price_%', '')",0.0
+444,Casa e decoração,artigos_de_natal,"('order_total_price_%', '')",0.0
+445,other,audio,"('order_total_price_%', '')",0.0
+446,other,automotivo,"('order_total_price_%', '')",0.04
+447,other,bebes,"('order_total_price_%', '')",0.03
+448,Alimentos e bebidas,bebidas,"('order_total_price_%', '')",0.0
+449,Perfumaria e cosméticos + saúde,beleza_saude,"('order_total_price_%', '')",0.09
+450,other,brinquedos,"('order_total_price_%', '')",0.03
+451,Casa e decoração,cama_mesa_banho,"('order_total_price_%', '')",0.08
+452,Casa e decoração,casa_conforto,"('order_total_price_%', '')",0.0
+453,Casa e decoração,casa_conforto_2,"('order_total_price_%', '')",0.0
+454,other,casa_construcao,"('order_total_price_%', '')",0.01
+455,other,cds_dvds_musicais,"('order_total_price_%', '')",0.0
+456,other,cine_foto,"('order_total_price_%', '')",0.0
+457,Eletrodomésticos,climatizacao,"('order_total_price_%', '')",0.0
+458,other,consoles_games,"('order_total_price_%', '')",0.01
+459,other,construcao_ferramentas_construcao,"('order_total_price_%', '')",0.01
+460,other,construcao_ferramentas_ferramentas,"('order_total_price_%', '')",0.0
+461,other,construcao_ferramentas_iluminacao,"('order_total_price_%', '')",0.0
+462,other,construcao_ferramentas_jardim,"('order_total_price_%', '')",0.0
+463,other,construcao_ferramentas_seguranca,"('order_total_price_%', '')",0.0
+464,other,cool_stuff,"('order_total_price_%', '')",0.04
+465,other,dvds_blu_ray,"('order_total_price_%', '')",0.0
+466,Eletrodomésticos,eletrodomesticos,"('order_total_price_%', '')",0.01
+467,Eletrodomésticos,eletrodomesticos_2,"('order_total_price_%', '')",0.01
+468,other,eletronicos,"('order_total_price_%', '')",0.01
+469,Eletrodomésticos,eletroportateis,"('order_total_price_%', '')",0.01
+470,other,esporte_lazer,"('order_total_price_%', '')",0.07
+471,Moda e acessórios,fashion_bolsas_e_acessorios,"('order_total_price_%', '')",0.01
+472,Moda e acessórios,fashion_calcados,"('order_total_price_%', '')",0.0
+473,Moda e acessórios,fashion_esporte,"('order_total_price_%', '')",0.0
+474,Moda e acessórios,fashion_roupa_feminina,"('order_total_price_%', '')",0.0
+475,Moda e acessórios,fashion_roupa_infanto_juvenil,"('order_total_price_%', '')",0.0
+476,Moda e acessórios,fashion_roupa_masculina,"('order_total_price_%', '')",0.0
+477,Moda e acessórios,fashion_underwear_e_moda_praia,"('order_total_price_%', '')",0.0
+478,other,ferramentas_jardim,"('order_total_price_%', '')",0.04
+479,other,flores,"('order_total_price_%', '')",0.0
+480,other,fraldas_higiene,"('order_total_price_%', '')",0.0
+481,other,industria_comercio_e_negocios,"('order_total_price_%', '')",0.0
+482,other,informatica_acessorios,"('order_total_price_%', '')",0.07
+483,other,instrumentos_musicais,"('order_total_price_%', '')",0.01
+484,other,la_cuisine,"('order_total_price_%', '')",0.0
+485,other,livros_importados,"('order_total_price_%', '')",0.0
+486,other,livros_interesse_geral,"('order_total_price_%', '')",0.0
+487,other,livros_tecnicos,"('order_total_price_%', '')",0.0
+488,other,malas_acessorios,"('order_total_price_%', '')",0.01
+489,other,market_place,"('order_total_price_%', '')",0.0
+490,Casa e decoração,moveis_colchao_e_estofado,"('order_total_price_%', '')",0.0
+491,Casa e decoração,moveis_cozinha_area_de_servico_jantar_e_jardim,"('order_total_price_%', '')",0.0
+492,Casa e decoração,moveis_decoracao,"('order_total_price_%', '')",0.06
+493,Casa e decoração,moveis_escritorio,"('order_total_price_%', '')",0.03
+494,Casa e decoração,moveis_quarto,"('order_total_price_%', '')",0.0
+495,Casa e decoração,moveis_sala,"('order_total_price_%', '')",0.01
+496,other,musica,"('order_total_price_%', '')",0.0
+497,other,papelaria,"('order_total_price_%', '')",0.02
+498,other,pc_gamer,"('order_total_price_%', '')",0.0
+499,other,pcs,"('order_total_price_%', '')",0.02
+500,Perfumaria e cosméticos + saúde,perfumaria,"('order_total_price_%', '')",0.03
+501,other,pet_shop,"('order_total_price_%', '')",0.02
+502,Eletrodomésticos,portateis_casa_forno_e_cafe,"('order_total_price_%', '')",0.0
+503,Eletrodomésticos,portateis_cozinha_e_preparadores_de_alimentos,"('order_total_price_%', '')",0.0
+504,other,relogios_presentes,"('order_total_price_%', '')",0.08
+505,other,seguros_e_servicos,"('order_total_price_%', '')",0.0
+506,other,sinalizacao_e_seguranca,"('order_total_price_%', '')",0.0
+507,other,tablets_impressao_imagem,"('order_total_price_%', '')",0.0
+508,other,telefonia,"('order_total_price_%', '')",0.02
+509,other,telefonia_fixa,"('order_total_price_%', '')",0.01
+510,Casa e decoração,utilidades_domesticas,"('order_total_price_%', '')",0.05
+511,other,agro_industria_e_comercio,"('order_id_%', '')",0.0
+512,Alimentos e bebidas,alimentos,"('order_id_%', '')",0.0
+513,Alimentos e bebidas,alimentos_bebidas,"('order_id_%', '')",0.0
+514,other,artes,"('order_id_%', '')",0.0
+515,other,artes_e_artesanato,"('order_id_%', '')",0.0
+516,Casa e decoração,artigos_de_festas,"('order_id_%', '')",0.0
+517,Casa e decoração,artigos_de_natal,"('order_id_%', '')",0.0
+518,other,audio,"('order_id_%', '')",0.0
+519,other,automotivo,"('order_id_%', '')",0.04
+520,other,bebes,"('order_id_%', '')",0.03
+521,Alimentos e bebidas,bebidas,"('order_id_%', '')",0.0
+522,Perfumaria e cosméticos + saúde,beleza_saude,"('order_id_%', '')",0.09
+523,other,brinquedos,"('order_id_%', '')",0.04
+524,Casa e decoração,cama_mesa_banho,"('order_id_%', '')",0.1
+525,Casa e decoração,casa_conforto,"('order_id_%', '')",0.0
+526,Casa e decoração,casa_conforto_2,"('order_id_%', '')",0.0
+527,other,casa_construcao,"('order_id_%', '')",0.0
+528,other,cds_dvds_musicais,"('order_id_%', '')",0.0
+529,other,cine_foto,"('order_id_%', '')",0.0
+530,Eletrodomésticos,climatizacao,"('order_id_%', '')",0.0
+531,other,consoles_games,"('order_id_%', '')",0.01
+532,other,construcao_ferramentas_construcao,"('order_id_%', '')",0.01
+533,other,construcao_ferramentas_ferramentas,"('order_id_%', '')",0.0
+534,other,construcao_ferramentas_iluminacao,"('order_id_%', '')",0.0
+535,other,construcao_ferramentas_jardim,"('order_id_%', '')",0.0
+536,other,construcao_ferramentas_seguranca,"('order_id_%', '')",0.0
+537,other,cool_stuff,"('order_id_%', '')",0.04
+538,other,dvds_blu_ray,"('order_id_%', '')",0.0
+539,Eletrodomésticos,eletrodomesticos,"('order_id_%', '')",0.01
+540,Eletrodomésticos,eletrodomesticos_2,"('order_id_%', '')",0.0
+541,other,eletronicos,"('order_id_%', '')",0.03
+542,Eletrodomésticos,eletroportateis,"('order_id_%', '')",0.01
+543,other,esporte_lazer,"('order_id_%', '')",0.08
+544,Moda e acessórios,fashion_bolsas_e_acessorios,"('order_id_%', '')",0.02
+545,Moda e acessórios,fashion_calcados,"('order_id_%', '')",0.0
+546,Moda e acessórios,fashion_esporte,"('order_id_%', '')",0.0
+547,Moda e acessórios,fashion_roupa_feminina,"('order_id_%', '')",0.0
+548,Moda e acessórios,fashion_roupa_infanto_juvenil,"('order_id_%', '')",0.0
+549,Moda e acessórios,fashion_roupa_masculina,"('order_id_%', '')",0.0
+550,Moda e acessórios,fashion_underwear_e_moda_praia,"('order_id_%', '')",0.0
+551,other,ferramentas_jardim,"('order_id_%', '')",0.04
+552,other,flores,"('order_id_%', '')",0.0
+553,other,fraldas_higiene,"('order_id_%', '')",0.0
+554,other,industria_comercio_e_negocios,"('order_id_%', '')",0.0
+555,other,informatica_acessorios,"('order_id_%', '')",0.07
+556,other,instrumentos_musicais,"('order_id_%', '')",0.01
+557,other,la_cuisine,"('order_id_%', '')",0.0
+558,other,livros_importados,"('order_id_%', '')",0.0
+559,other,livros_interesse_geral,"('order_id_%', '')",0.01
+560,other,livros_tecnicos,"('order_id_%', '')",0.0
+561,other,malas_acessorios,"('order_id_%', '')",0.01
+562,other,market_place,"('order_id_%', '')",0.0
+563,Casa e decoração,moveis_colchao_e_estofado,"('order_id_%', '')",0.0
+564,Casa e decoração,moveis_cozinha_area_de_servico_jantar_e_jardim,"('order_id_%', '')",0.0
+565,Casa e decoração,moveis_decoracao,"('order_id_%', '')",0.07
+566,Casa e decoração,moveis_escritorio,"('order_id_%', '')",0.01
+567,Casa e decoração,moveis_quarto,"('order_id_%', '')",0.0
+568,Casa e decoração,moveis_sala,"('order_id_%', '')",0.0
+569,other,musica,"('order_id_%', '')",0.0
+570,other,papelaria,"('order_id_%', '')",0.02
+571,other,pc_gamer,"('order_id_%', '')",0.0
+572,other,pcs,"('order_id_%', '')",0.0
+573,Perfumaria e cosméticos + saúde,perfumaria,"('order_id_%', '')",0.03
+574,other,pet_shop,"('order_id_%', '')",0.02
+575,Eletrodomésticos,portateis_casa_forno_e_cafe,"('order_id_%', '')",0.0
+576,Eletrodomésticos,portateis_cozinha_e_preparadores_de_alimentos,"('order_id_%', '')",0.0
+577,other,relogios_presentes,"('order_id_%', '')",0.06
+578,other,seguros_e_servicos,"('order_id_%', '')",0.0
+579,other,sinalizacao_e_seguranca,"('order_id_%', '')",0.0
+580,other,tablets_impressao_imagem,"('order_id_%', '')",0.0
+581,other,telefonia,"('order_id_%', '')",0.04
+582,other,telefonia_fixa,"('order_id_%', '')",0.0
+583,Casa e decoração,utilidades_domesticas,"('order_id_%', '')",0.06
+584,other,agro_industria_e_comercio,"('seller_id_%', '')",0.01
+585,Alimentos e bebidas,alimentos,"('seller_id_%', '')",0.01
+586,Alimentos e bebidas,alimentos_bebidas,"('seller_id_%', '')",0.01
+587,other,artes,"('seller_id_%', '')",0.01
+588,other,artes_e_artesanato,"('seller_id_%', '')",0.0
+589,Casa e decoração,artigos_de_festas,"('seller_id_%', '')",0.0
+590,Casa e decoração,artigos_de_natal,"('seller_id_%', '')",0.0
+591,other,audio,"('seller_id_%', '')",0.01
+592,other,automotivo,"('seller_id_%', '')",0.06
+593,other,bebes,"('seller_id_%', '')",0.04
+594,Alimentos e bebidas,bebidas,"('seller_id_%', '')",0.01
+595,Perfumaria e cosméticos + saúde,beleza_saude,"('seller_id_%', '')",0.08
+596,other,brinquedos,"('seller_id_%', '')",0.04
+597,Casa e decoração,cama_mesa_banho,"('seller_id_%', '')",0.03
+598,Casa e decoração,casa_conforto,"('seller_id_%', '')",0.0
+599,Casa e decoração,casa_conforto_2,"('seller_id_%', '')",0.0
+600,other,casa_construcao,"('seller_id_%', '')",0.01
+601,other,cds_dvds_musicais,"('seller_id_%', '')",0.0
+602,other,cine_foto,"('seller_id_%', '')",0.0
+603,Eletrodomésticos,climatizacao,"('seller_id_%', '')",0.01
+604,other,consoles_games,"('seller_id_%', '')",0.01
+605,other,construcao_ferramentas_construcao,"('seller_id_%', '')",0.02
+606,other,construcao_ferramentas_ferramentas,"('seller_id_%', '')",0.0
+607,other,construcao_ferramentas_iluminacao,"('seller_id_%', '')",0.01
+608,other,construcao_ferramentas_jardim,"('seller_id_%', '')",0.01
+609,other,construcao_ferramentas_seguranca,"('seller_id_%', '')",0.01
+610,other,cool_stuff,"('seller_id_%', '')",0.04
+611,other,dvds_blu_ray,"('seller_id_%', '')",0.0
+612,Eletrodomésticos,eletrodomesticos,"('seller_id_%', '')",0.01
+613,Eletrodomésticos,eletrodomesticos_2,"('seller_id_%', '')",0.01
+614,other,eletronicos,"('seller_id_%', '')",0.02
+615,Eletrodomésticos,eletroportateis,"('seller_id_%', '')",0.02
+616,other,esporte_lazer,"('seller_id_%', '')",0.08
+617,Moda e acessórios,fashion_bolsas_e_acessorios,"('seller_id_%', '')",0.02
+618,Moda e acessórios,fashion_calcados,"('seller_id_%', '')",0.0
+619,Moda e acessórios,fashion_esporte,"('seller_id_%', '')",0.0
+620,Moda e acessórios,fashion_roupa_feminina,"('seller_id_%', '')",0.0
+621,Moda e acessórios,fashion_roupa_infanto_juvenil,"('seller_id_%', '')",0.0
+622,Moda e acessórios,fashion_roupa_masculina,"('seller_id_%', '')",0.0
+623,Moda e acessórios,fashion_underwear_e_moda_praia,"('seller_id_%', '')",0.0
+624,other,ferramentas_jardim,"('seller_id_%', '')",0.04
+625,other,flores,"('seller_id_%', '')",0.0
+626,other,fraldas_higiene,"('seller_id_%', '')",0.0
+627,other,industria_comercio_e_negocios,"('seller_id_%', '')",0.0
+628,other,informatica_acessorios,"('seller_id_%', '')",0.05
+629,other,instrumentos_musicais,"('seller_id_%', '')",0.01
+630,other,la_cuisine,"('seller_id_%', '')",0.0
+631,other,livros_importados,"('seller_id_%', '')",0.0
+632,other,livros_interesse_geral,"('seller_id_%', '')",0.01
+633,other,livros_tecnicos,"('seller_id_%', '')",0.0
+634,other,malas_acessorios,"('seller_id_%', '')",0.01
+635,other,market_place,"('seller_id_%', '')",0.01
+636,Casa e decoração,moveis_colchao_e_estofado,"('seller_id_%', '')",0.0
+637,Casa e decoração,moveis_cozinha_area_de_servico_jantar_e_jardim,"('seller_id_%', '')",0.01
+638,Casa e decoração,moveis_decoracao,"('seller_id_%', '')",0.06
+639,Casa e decoração,moveis_escritorio,"('seller_id_%', '')",0.01
+640,Casa e decoração,moveis_quarto,"('seller_id_%', '')",0.0
+641,Casa e decoração,moveis_sala,"('seller_id_%', '')",0.01
+642,other,musica,"('seller_id_%', '')",0.0
+643,other,papelaria,"('seller_id_%', '')",0.03
+644,other,pc_gamer,"('seller_id_%', '')",0.0
+645,other,pcs,"('seller_id_%', '')",0.0
+646,Perfumaria e cosméticos + saúde,perfumaria,"('seller_id_%', '')",0.03
+647,other,pet_shop,"('seller_id_%', '')",0.02
+648,Eletrodomésticos,portateis_casa_forno_e_cafe,"('seller_id_%', '')",0.0
+649,Eletrodomésticos,portateis_cozinha_e_preparadores_de_alimentos,"('seller_id_%', '')",0.0
+650,other,relogios_presentes,"('seller_id_%', '')",0.02
+651,other,seguros_e_servicos,"('seller_id_%', '')",0.0
+652,other,sinalizacao_e_seguranca,"('seller_id_%', '')",0.01
+653,other,tablets_impressao_imagem,"('seller_id_%', '')",0.0
+654,other,telefonia,"('seller_id_%', '')",0.02
+655,other,telefonia_fixa,"('seller_id_%', '')",0.01
+656,Casa e decoração,utilidades_domesticas,"('seller_id_%', '')",0.07
