@@ -18,7 +18,7 @@ Os dados foram analisados usando a biblioteca pandas e visualizados com seaborn.
 - Adobe Illustrator
 
 ## Arquivos
-- [queried_data](https://github.com/maiarafsouza/commercial_olist_data_analysis_viz/tree/main/olist_commercial_data_analysis/queried_data) onde se encontram a query para expotação de dados do SGBD
+- [queried_data](https://github.com/maiarafsouza/commercial_olist_data_analysis_viz/tree/main/olist_commercial_data_analysis/queried_data) onde se encontra a query para expotação de dados do SGBD
 - [notebook](https://github.com/maiarafsouza/commercial_olist_data_analysis_viz/blob/main/olist_commercial_data_analysis/commercial_analysis.ipynb) python onde foi feita a análise
 - [visualization](https://github.com/maiarafsouza/commercial_olist_data_analysis_viz/tree/main/olist_commercial_data_analysis/visualization) onde se econtram dados exportados ao final da análise, os gráficos gerados em RAWGraphs e o relatório final
 
